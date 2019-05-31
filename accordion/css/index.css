@@ -52,6 +52,7 @@ body{
 .accordion .accordion-item.active .accordion-content p{
   opacity: 1;
   height: auto;
+  cursor: default;
   transition: var(--time);
 }
 .accordion .accordion-item.active .accordion-content{
