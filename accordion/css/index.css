@@ -48,6 +48,7 @@ body{
 .accordion .accordion-content p{
   opacity: 0;
   height: 0;
+  cursor: default;
 }
 .accordion .accordion-item.active .accordion-content p{
   opacity: 1;
